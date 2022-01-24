@@ -1,13 +1,6 @@
 # gdrive-file-backup
 
-![](https://img.shields.io/badge/MadeWith-Python-green)
-[![](https://img.shields.io/badge/BuiltFor-MLH(LHD)-yellow)](https://www.mlh.io)
 
-
-Script to automate folder backups on google drive.
-
-###Refer
-https://python.plainenglish.io/automate-google-drive-backup-using-python-105f57e2151
 
 ## Set up:
 1. `pip3 install -r requirements.txt`
