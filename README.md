@@ -6,8 +6,8 @@
 
 Script to automate folder backups on google drive.
 
-### Learn about the entire process from start to end in this blog: 
-https://pratik-choudhari.medium.com/automate-google-drive-backup-using-python-105f57e2151
+###Refer
+https://python.plainenglish.io/automate-google-drive-backup-using-python-105f57e2151
 
 ## Set up:
 1. `pip3 install -r requirements.txt`
